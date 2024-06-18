@@ -36,18 +36,6 @@ pnpm install --shamefully-hoist
 
 3. Run the `dev` command to start Docus in development mode:
 
-## Let There Be Light
-
-::card{icon="logos:nuxt-icon"}
-#title
-Nuxt Architecture.
-#description
-Based on **Nuxt 3** and **Nuxt Content**. :br
-Use Nuxt to build a static site, or a serverless app.
-::
-
-4. Run the `dev` command to start Docus in development mode:
-
 ::code-group
 
 ```bash [npm]
